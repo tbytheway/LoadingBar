@@ -1,0 +1,33 @@
+
+.App {
+  font-family: sans-serif;
+  text-align: right;
+  width:300px;
+  background-color: hsl(0, 0%, 27%);
+  border-radius: 20px;
+  height: 20px;
+}
+
+.App div {
+height: 20px;
+border-radius: 20px;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+background-color: rgb(132, 0, 255);
+
+}
+
+button {
+margin-top: 3px;
+color: white;
+background-color: rgb(116, 42, 165);
+border-radius: 5px;
+border-color: rgb(116, 42, 165)
+}
+
+span {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
